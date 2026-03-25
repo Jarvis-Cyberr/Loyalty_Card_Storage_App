@@ -33,3 +33,4 @@ class LoyaltyApp extends StatelessWidget {
     );
   }
 }
+// Updated Provider logic
